@@ -1,14 +1,14 @@
 # Pyhton-Project
 CMP4336 Introduction to Data Mining Course 2018/2019 Spring Semester  Project
 
-1) Please apply regression algorithms to the following Data sets using sckitlearn library of Python,  prepare a table of error percentages, and necessary performance metrics 
+ 1) Please apply regression algorithms to the following Data sets using sckitlearn library of Python,  prepare a table of error percentages, and necessary performance metrics 
 
 Boston DataSet (regression)
 
 Diabets DataSet (Regression)
 Titanic DataSet  (Regression)
  
-2)Apply classification algorithms K-NN, LDA using sckit-learn library on following Data sets and compare the prediction performances in a table. 
+ 2)Apply classification algorithms K-NN, LDA using sckit-learn library on following Data sets and compare the prediction performances in a table. 
 
  
 
