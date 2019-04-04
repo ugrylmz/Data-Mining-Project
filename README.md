@@ -25,7 +25,7 @@
    <p> <b>2)</b>  Apply classification algorithms K-NN, LDA using sckit-learn library on following Data sets and compare the prediction performances in a table. 
                 </p>
                 <ul>  
-                       <li> İris DataSet (Classification)</li>
+                       <li> Iris DataSet (Classification)</li>
                         <li> Digits DataSet (Classification)</li>
                         <li>  Wine DataSet (Classification)</li>    
                         <li> Breast-Cancer DataSet (Classification)</li>
