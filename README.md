@@ -11,12 +11,11 @@
     <h1>CMP4336 Introduction to Data Mining Course 2018/2019 Spring Semester  Project</h1>
     <p> <b>1)</b>  Please apply regression algorithms to the following Data sets using sckitlearn library of Python,  prepare a table of error percentages, and necessary performance metrics 
           </p>
-   <ul>  
+                     <ul>
                        <li>Boston DataSet (regression)</li>
                         <li>Diabets DataSet (Regression)</li>
-                        <li>Titanic DataSet  (Regression)</li>  
-                      
-                        </ul>
+                        <li>Titanic DataSet  (Regression)</li>                        
+    </ul>
                         
 
 
