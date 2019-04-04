@@ -40,3 +40,16 @@
     
 </body>
 </html>
+
+https://realpython.com/python-matplotlib-guide/
+https://towardsdatascience.com/ridge-and-lasso-regression-a-complete-guide-with-python-scikit-learn-e20e34bcbf0b
+http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/
+https://scikit-learn.org/stable/modules/feature_selection.html
+https://www.datacamp.com/community/tutorials/feature-selection-python
+http://docs.astropy.org/en/stable/api/astropy.stats.bootstrap.html
+http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/
+https://www.nvestlabs.com/2019/03/18/actualizing-knn-characterization-calculation-utilizing-python-on-iris-dataset/
+http://scipy-lectures.org/advanced/scikit-learn/
+https://www.kaggle.com/crowemi/iris-classification-k-nearest-neighbors
+
+https://1drv.ms/u/s!Alh8QcBTZFVJhVGSiTfgczONla2K 
