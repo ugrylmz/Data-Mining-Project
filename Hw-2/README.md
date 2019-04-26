@@ -1,6 +1,6 @@
 <h2>Assignment 2</h2>
 
-<p>1)Apply Backword Feature selection and Forward Feature Selection to the dataset that is given in the following link: </p>
+<p>1)Apply Backward Feature selection and Forward Feature Selection to the dataset that is given in the following link: </p>
 
 <a href="http://archive.ics.uci.edu/ml/datasets/madelon">datasets/madelon</a>
 
