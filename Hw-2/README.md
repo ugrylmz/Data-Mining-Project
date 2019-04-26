@@ -31,3 +31,4 @@
 
 <a href="https://www.solver.com/data-mining-classification-methods">Kaynak</a>
  </> 
+https://medium.com/@researchplex/the-easiest-way-to-convert-jupyter-ipynb-to-python-py-912e39f16917
